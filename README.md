@@ -1,5 +1,5 @@
 # control_repo
-linkedIn Learning Puppet Course
+LinkedIn Learning Puppet Course
 
 
 This is a change
